@@ -1,0 +1,6 @@
+Used Tools:
+Git Extensions for local git implementation
+Alternative : TortoiseGit
+
+Graphics:
+Inkscape
